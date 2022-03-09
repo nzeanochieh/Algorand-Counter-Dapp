@@ -23,6 +23,9 @@ const App = () => {
         <div className="bio">
         Antony here.  I'm happy you made it this far! You're well on your way to creating your first dapp on Algorand! 
         </div>
+        <div className = "count">
+         Count #
+        </div>
         <button className="mathButton" onClick={add}>
           Add
         </button>
